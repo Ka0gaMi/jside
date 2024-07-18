@@ -36,6 +36,7 @@
   "typescript.experimental.tsserver.web.typeAcquisition.enabled": true,
   "typescript.web.projectWideIntellisense.enabled": true,
   "typescript.disableAutomaticTypeAcquisition": true,
+  "typescript.tsserver.experimental.useVsCodeWatcher": false,
   "html.format.extraLiners": "",
   "[javascript]": {
     "editor.tabSize": 2
